@@ -70,7 +70,7 @@ This project uses a pre-hosted backend:
     ```bash
     npm run dev
     ```
-> Warning ⚠️
+> [!WARNING]
 > Make sure the backend API is running (or reachable) from the link above. No local backend setup is required.
 
 ## 🛍️ Features
